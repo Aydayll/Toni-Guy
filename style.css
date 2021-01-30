@@ -33,4 +33,15 @@ ul{
     font-size: 10px;
     font-weight: 600;
     letter-spacing: 2px;
+    display: inline-block;
+    padding: 0 30px;
+}
+.text{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    transform: rotate(-90deg);
+}
+.sponsor img{
+width: 200px;
 }
